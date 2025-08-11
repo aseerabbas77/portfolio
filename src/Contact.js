@@ -40,7 +40,7 @@ export default function Contact() {
           <div className="space-y-6">
             <div className="flex items-center gap-4">
               <FaEnvelope className="text-pink-700 text-2xl" />
-              <span className="text-gray-800">aseerabbas77@gmail.com</span>
+              <span className="text-gray-800">aseerabbas492@gmail.com</span>
             </div>
             <div className="flex items-center gap-4">
               <FaPhone className="text-pink-700 text-2xl" />
